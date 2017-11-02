@@ -1,0 +1,7 @@
+Bill Of Materials
+
+- 3D printed body	- X1
+- Logitech C920 	- X2
+- Arduino uno 		- X1
+- LED 11mm 12v 0.5w 	- X5
+- LED drivers PicoBuck	- X2
